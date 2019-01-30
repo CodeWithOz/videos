@@ -2,6 +2,9 @@
 
 This app mocks the YouTube player interface including the search bar, list
 of related videos, and details of the currently playing video.
+
+![Screenshot of videos web app](img/videos_screenshot.png)
+
 It is part of Udemy's
 [Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/content)
 course taught by Stephen Grider.
